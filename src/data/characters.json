@@ -1,50 +1,74 @@
 [
     {
-        "name": "abed",
-        "img": "abed.png"
+        "name": "barnyard",
+        "img": "barnyard.jpg"
     },
     {
-        "name": "annie",
-        "img": "annie.jpg"
+        "name": "brain",
+        "img": "brain.gif"
     },
     {
-        "name": "britta",
-        "img": "britta.jpg"
+        "name": "bugs",
+        "img": "bugs.gif"
     },
     {
-        "name": "chang",
-        "img": "chang.jpg"
+        "name": "daffy",
+        "img": "daffy.gif"
     },
     {
-        "name": "dean",
-        "img": "dean.png"
+        "name": "donald",
+        "img": "donald.gif"
     },
     {
-        "name": "garrett",
-        "img": "garrett.png"
+        "name": "elmer",
+        "img": "elmer.gif"
     },
     {
-        "name": "jeff",
-        "img": "jeff.jpg"
+        "name": "foghorn",
+        "img": "foghorn.gif"
     },
     {
-        "name": "leonard",
-        "img": "leonard.jpg"
+        "name": "frog",
+        "img": "frog.gif"
     },
     {
-        "name": "pierce",
-        "img": "pierce.jpg"
+        "name": "marvin",
+        "img": "marvin.jpeg"
     },
     {
-        "name": "shirley",
-        "img": "shirley.jpg"
+        "name": "pepe",
+        "img": "pepe.gif"
     },
     {
-        "name": "starburns",
-        "img": "starburns.png"
+        "name": "porky",
+        "img": "porky.gif"
     },
     {
-        "name": "troy",
-        "img": "troy.jpg"
+        "name": "roadrunner",
+        "img": "roadrunner.gif"
+    },
+    {
+        "name": "sylvester",
+        "img": "sylvester.gif"
+    },
+    {
+        "name": "tas",
+        "img": "tas.gif"
+    },
+    {
+        "name": "tweety",
+        "img": "tweety.gif"
+    },
+    {
+        "name": "wiley",
+        "img": "wiley.gif"
+    },
+    {
+        "name": "woody",
+        "img": "woody.png"
+    },
+    {
+        "name": "yosemite",
+        "img": "yosemite.gif"
     }
-]
+   ]
