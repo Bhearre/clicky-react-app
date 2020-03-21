@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/clicky-react-app/static/css/main.acace3ea.chunk.css",
+    "main.js": "/clicky-react-app/static/js/main.577bf457.chunk.js",
+    "main.js.map": "/clicky-react-app/static/js/main.577bf457.chunk.js.map",
+    "runtime-main.js": "/clicky-react-app/static/js/runtime-main.8fd4e4a5.js",
+    "runtime-main.js.map": "/clicky-react-app/static/js/runtime-main.8fd4e4a5.js.map",
+    "static/js/2.36ca9fe4.chunk.js": "/clicky-react-app/static/js/2.36ca9fe4.chunk.js",
+    "static/js/2.36ca9fe4.chunk.js.map": "/clicky-react-app/static/js/2.36ca9fe4.chunk.js.map",
+    "index.html": "/clicky-react-app/index.html",
+    "precache-manifest.521a4234fa2075181fc4e08020e23605.js": "/clicky-react-app/precache-manifest.521a4234fa2075181fc4e08020e23605.js",
+    "service-worker.js": "/clicky-react-app/service-worker.js",
+    "static/css/main.acace3ea.chunk.css.map": "/clicky-react-app/static/css/main.acace3ea.chunk.css.map",
+    "static/js/2.36ca9fe4.chunk.js.LICENSE.txt": "/clicky-react-app/static/js/2.36ca9fe4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fd4e4a5.js",
+    "static/js/2.36ca9fe4.chunk.js",
+    "static/css/main.acace3ea.chunk.css",
+    "static/js/main.577bf457.chunk.js"
+  ]
+}
