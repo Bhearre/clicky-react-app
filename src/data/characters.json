@@ -1,9 +1,5 @@
 [
     {
-        "name": "barnyard",
-        "img": "barnyard.jpg"
-    },
-    {
         "name": "brain",
         "img": "brain.gif"
     },
@@ -28,24 +24,16 @@
         "img": "foghorn.gif"
     },
     {
+        "name": "marvin",
+        "img": "marvin.gif"
+    },
+    {
         "name": "frog",
         "img": "frog.gif"
     },
     {
-        "name": "marvin",
-        "img": "marvin.jpeg"
-    },
-    {
         "name": "pepe",
         "img": "pepe.gif"
-    },
-    {
-        "name": "porky",
-        "img": "porky.gif"
-    },
-    {
-        "name": "roadrunner",
-        "img": "roadrunner.gif"
     },
     {
         "name": "sylvester",
@@ -62,10 +50,6 @@
     {
         "name": "wiley",
         "img": "wiley.gif"
-    },
-    {
-        "name": "woody",
-        "img": "woody.png"
     },
     {
         "name": "yosemite",
