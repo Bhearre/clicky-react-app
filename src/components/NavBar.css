@@ -1,0 +1,11 @@
+.navbar {
+    background-color: white;
+    color: darkgreen;
+}
+a.navbar-brand {
+    font-weight: bold;
+    color: darkgreen;
+}
+span.nav-item {
+    font-size: 18px;
+}
